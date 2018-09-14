@@ -11,17 +11,17 @@ Atividades:
 # Entregas
 
 Artigo 1
-https://docs.google.com/presentation/d/1FOfCXBtVI6D2AhGtZddRzw1gotkrXhQ2QNeKIUwD7E4/edit?usp=sharing
+- https://docs.google.com/presentation/d/1FOfCXBtVI6D2AhGtZddRzw1gotkrXhQ2QNeKIUwD7E4/edit?usp=sharing
 
 Artigo 2
-???
+- ???
 
 Parte 1 - Trabalho
-https://docs.google.com/document/d/16DULHCRN5oDBYGnVbfp57cevEGA0zDtb5MEvT_a-v7s/edit?usp=sharing
-https://docs.google.com/presentation/d/1PEWcv7Pv1_QgthU1ypigR1h9Rx4wCgrm8f0I8QMQEx0/edit?usp=sharing
+- https://docs.google.com/document/d/16DULHCRN5oDBYGnVbfp57cevEGA0zDtb5MEvT_a-v7s/edit?usp=sharing
+- https://docs.google.com/presentation/d/1PEWcv7Pv1_QgthU1ypigR1h9Rx4wCgrm8f0I8QMQEx0/edit?usp=sharing
 
 Parte 2 - Trabalho
-???
+- ???
 
 Parte 3 - Trabalho
-???
+- ???
