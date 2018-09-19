@@ -25,3 +25,6 @@ Parte 2 - Trabalho
 
 Parte 3 - Trabalho
 - ???
+
+# Material interessante
+- Word Embeddings for Multi-label Document Classification (artigo 2017).
