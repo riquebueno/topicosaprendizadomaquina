@@ -29,4 +29,4 @@ Parte 3 - Trabalho
 # Material interessante
 - Word Embeddings for Multi-label Document Classification (artigo 2017).
 - Ótimo exemplo de como usar o embedding do Word2Vec via Gensim - https://towardsdatascience.com/word-embedding-with-word2vec-and-fasttext-a209c1d3e12c
-- 
+- Google Dataset - https://toolbox.google.com/datasetsearch
