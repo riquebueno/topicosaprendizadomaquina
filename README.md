@@ -19,7 +19,7 @@ Parte 1 - Trabalho
 
 Parte 2 - Trabalho
 - DOING Código https://drive.google.com/open?id=1N79TJUeJ7P3subIJplGCfJkzeFBWT_en
-- DOING Apresentação https://drive.google.com/open?id=12wL3OaAZoB777AAZcd5LG6WgIk1nrPQIYe6hUwYJ5TY
+- DOING Apresentação https://github.com/riquebueno/topicosaprendizadomaquina/blob/master/Trabalho%20Topicos%20-%20parte%202.pdf
 
 Parte 3 - Trabalho
 - Doing Relatório Final
